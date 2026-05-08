@@ -1,0 +1,13 @@
+{
+  "name": "M B G AI - Professional Image Editor",
+  "description": "An AI-powered, multilingual image editing platform with advanced layer support, smart selection tools, and batch processing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered editing",
+    "Advanced layering",
+    "Multilingual support",
+    "Batch processing"
+  ]
+}
